@@ -25,18 +25,16 @@ Videos are available on the Liris human activity [website](https://projet.liris.
 
 ![Unknown Action histograms](unknown_actions.png)
 
-Details of using the enhanced dataset are available in the liris_osvidcap folder.
+Details of using the enhanced dataset are available in the [liris_osvidcap](https://github.com/bioinfolabic/OSVidCap/tree/main/liris_osvidcap_osvidcap) folder.
 
 ### ActivityNet Captions dataset
 
 ActivityNet Captions is a large dataset proposed for dense-captioning events, which involves both detecting and describing events in a video. It contains 20,000 videos split into around 50%, 25%, 25% for training, validation, and testing set, respectively. Although the ActivityNet Captions dataset is available for
-download as a collection of Youtube video links, many of
-these videos are no longer available for download, as reported
-in previous works
+download as a collection of Youtube video links, many of these videos are no longer available for download.
 
 Thus, we used 12,714 videos that were still available for download. Videos shorter than 3 seconds were disregarded due to the small number of extracted frames. As our approach focused on describing entire videos and not detecting a series of events, we used the ground-truth event proposals to extract 34,934 video clips for each temporarily localized description provided in the annotations.
 
-Details on how to download and pre-process the videos used in this study are available in the activitynet_captions_dataset folder.
+Details on how to download and pre-process the videos used in this study are available in the [activitynet_captions_dataset](https://github.com/bioinfolabic/OSVidCap/tree/main/activitynet_captions_osvidcap) folder.
 
 
 ## Related Papers
