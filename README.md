@@ -63,3 +63,9 @@ C Wolf, J. Mille, E. Lombardi, O. Celiktutan, M. Jiu, E. Dogan, G. Eren, M. Bacc
 * The ActivityNet Captions dataset
 
 Krishna, Ranjay et al. Dense-captioning events in videos. In: Proceedings of the IEEE international conference on computer vision. 2017. p. 706-715.
+
+
+---------
+
+For more information, please contact Andrei de Souza Inacio andrei.inacioo@gmail.com
+
