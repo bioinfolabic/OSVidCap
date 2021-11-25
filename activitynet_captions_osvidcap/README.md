@@ -9,13 +9,15 @@ The OSVidCap is a novel open-set video captioning framework that recognizes and 
 
 ## Datasets
 
+### ActivityNet Captions dataset
 
-It contains ActivityNet Captions dataset used in the paper OSVidCap: A Framework for the Simultaneous Recognition and Description of Concurrent Actions in Videos in an Open-Set Scenario
+This repository contains instructions on how to download and preprocessing the dataset used in the paper OSVidCap: A Framework for the Simultaneous Recognition and Description of Concurrent Actions in Videos in an Open-Set Scenario
+
 ----------------
 
-For more information about the dataset, please see the [paper](https://ieeexplore.ieee.org/abstract/document/9552885) 
+For more information about the dataset, please see the [paper here](https://ieeexplore.ieee.org/abstract/document/9552885) 
 
-If you use this dataset in a publication, please cite the paper:  
+If you use this dataset in a publication, please cite:  
 
 A. De Souza Inácio, M. Gutoski, A. E. Lazzaretti and H. S. Lopes, "OSVidCap: A Framework for the Simultaneous Recognition and Description of Concurrent Actions in Videos in an Open-Set Scenario," in IEEE Access, vol. 9, pp. 137029-137041, 2021, doi: 10.1109/ACCESS.2021.3116882.
 
